@@ -4,8 +4,8 @@ Welcome to the `deep-learning-projects` repository! This repository hosts a coll
 
 ## Projects
 
-### [Project 1: WebChatAI](https://github.com/michaeldrm/webchat-ai)
-- **Description**: WebChatBot is an AI-driven application that scrapes web content, processes the text, and enables users to engage in conversational interactions based on the extracted information.
+### [Project 1: WebScrapingAI](https://github.com/michaeldrm/webchat-ai)
+- **Description**: WebScrapingAI Bot is an AI-driven application that scrapes web content, processes the text, and enables users to engage in conversational interactions based on the extracted information.
 - **Techniques Used**: BeautifulSoup, text splitting with RecursiveCharacterTextSplitter, vector storage with FAISS, and conversational AI with LLM OpenAI’s GPT-3.5-turbo. It integrates these components to create a conversational agent capable of answering questions about the scraped website content.
 
 ### [Project 2: Sentiment Analysis with LSTMs](./project2)
