@@ -1,6 +1,6 @@
 # Deep Learning Projects
 
-Welcome to the `deep-learning-projects` repository! This repository hosts a collection of my deep learning projects, each demonstrating different neural network architectures and applications. Below you’ll find a brief description of each project, along with links to their individual directories.
+Welcome to the `deep-learning-projects` repository !
 
 ## Projects
 
